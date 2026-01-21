@@ -3,8 +3,8 @@ module github.com/rancher/channelserver
 go 1.25.0
 
 replace (
-	github.com/rancher/apiserver => github.com/rancher-teja/apiserver v0.0.2-0.20260120100927-428adac2c452
-	github.com/rancher/wrangler/v3 => github.com/rancher-teja/wrangler/v3 v3.0.0-20260120100314-0600ac179b3e
+	github.com/rancher/apiserver => github.com/rancher-teja/apiserver v0.0.2-0.20260121054052-ffb8ec5c3389
+	github.com/rancher/wrangler/v3 => github.com/rancher-teja/wrangler/v3 v3.0.0-20260121050704-d55794d5af80
 	k8s.io/client-go => k8s.io/client-go v0.35.0
 )
 
