@@ -66,10 +66,10 @@ github.com/prometheus/common v0.66.1 h1:h5E0h5/Y8niHc5DlaLlWLArTQI7tMrsfQjHV+d9Z
 github.com/prometheus/common v0.66.1/go.mod h1:gcaUsgf3KfRSwHY4dIMXLPV0K/Wg1oZ8+SbZk/HH/dA=
 github.com/prometheus/procfs v0.16.1 h1:hZ15bTNuirocR6u0JZ6BAHHmwS1p8B4P6MRqxtzMyRg=
 github.com/prometheus/procfs v0.16.1/go.mod h1:teAbpZRB1iIAJYREa1LsoWUXykVXA1KlTmWl8x/U+Is=
-github.com/rancher-teja/apiserver v0.0.2-0.20260120100927-428adac2c452 h1:LfcCPfXskXi/c0WamnxWSRH1psUnCn/hgH5vUBwBaJM=
-github.com/rancher-teja/apiserver v0.0.2-0.20260120100927-428adac2c452/go.mod h1:yAgO18BHCB2vk8PjVjmPsNzpVH57rcmkcmfdoyb2tbI=
-github.com/rancher-teja/wrangler/v3 v3.0.0-20260120100314-0600ac179b3e h1:E2R7QoVXm3jIxRlpdM/jMpX0pS92j8cr4RUINa8Do4I=
-github.com/rancher-teja/wrangler/v3 v3.0.0-20260120100314-0600ac179b3e/go.mod h1:ZmfLLj7MDs+VxeCdoopSSod//Oxe+Fr2bj+Jj6N8yIo=
+github.com/rancher-teja/apiserver v0.0.2-0.20260123080049-0764325667a4 h1:H2q9bP0DOF1YMh7rmKRdg7rvEh+LrshDckue7eMOriw=
+github.com/rancher-teja/apiserver v0.0.2-0.20260123080049-0764325667a4/go.mod h1:LlLNlRm6eZGmXhIVx8GvDGib6hMkM9S6AgAhSuTP6n8=
+github.com/rancher-teja/wrangler/v3 v3.0.0-20260123075108-28540b617aba h1:YQHad3oPWbpDxQIilJR2iC7E/oEv75Xr9vZSXoBpxhM=
+github.com/rancher-teja/wrangler/v3 v3.0.0-20260123075108-28540b617aba/go.mod h1:nkhEP4RFC8KpXzzLzG7zxs21+FRAl5I9GDwQPnlRco0=
 github.com/rogpeppe/go-internal v1.14.1 h1:UQB4HGPB6osV0SQTLymcB4TgvyWu6ZyliaW0tI/otEQ=
 github.com/rogpeppe/go-internal v1.14.1/go.mod h1:MaRKkUm5W0goXpeCfT7UZI6fk/L7L7so1lCWt35ZSgc=
 github.com/russross/blackfriday/v2 v2.1.0 h1:JIOH55/0cWyOuilr9/qlrm0BSXldqnqwMsf35Ld67mk=
